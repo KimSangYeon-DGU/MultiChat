@@ -7,7 +7,7 @@ https://github.com/KimSangYeon-DGU/Versatile_Socket
 ## DEMO
 [Server]
 <p align="center">
-	<img src="docs/Server_demo.PNG" width="300">
+	<img src="docs/Server_demo.PNG" width="500">
 </p>
 
 [Client]
