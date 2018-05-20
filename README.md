@@ -1,7 +1,16 @@
 # MultiChat
-# What is it?
+## What is it?
 This is a program for multi chatting and it is implemented by using Versatile Socket 
 
 https://github.com/KimSangYeon-DGU/Versatile_Socket
 
-# DEMO
+## DEMO
+[Server]
+<p align="center">
+	<img src="docs/Server_demo.PNG">
+</p>
+
+[Client]
+<p align="center">
+	<img src="docs/Client_demo_vertical.PNG">
+</p>
