@@ -12,5 +12,5 @@ https://github.com/KimSangYeon-DGU/Versatile_Socket
 
 [Client]
 <p align="center">
-	<img src="docs/Client_demo_vertical.PNG">
+	<img src="docs/Client_demo_vertical.PNG" width="640">
 </p>
