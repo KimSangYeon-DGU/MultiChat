@@ -7,7 +7,7 @@ https://github.com/KimSangYeon-DGU/Versatile_Socket
 ## What it is used for?
 This program is basic but has many potential for scalability.
 
-So, anyone who needs this program can use it.
+So, anyone who needs this program for their personal or company projects can use it.
 
 ## DEMO
 [Server]
