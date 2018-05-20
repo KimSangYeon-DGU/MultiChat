@@ -6,5 +6,5 @@ https://github.com/KimSangYeon-DGU/Versatile_Socket
 
 ## DEMO
 <p align="center">
-	<img src="docs/Server_demo.png">
+	<img src="docs/Server_demo.PNG">
 </p>
