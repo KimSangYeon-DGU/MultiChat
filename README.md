@@ -14,3 +14,7 @@ https://github.com/KimSangYeon-DGU/Versatile_Socket
 <p align="center">
 	<img src="docs/Client_demo_vertical.PNG" width="640">
 </p>
+
+## What it is used for?
+This program is basic but has many potential for scalability.
+So, anyone who needs this program can use it.
