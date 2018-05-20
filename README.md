@@ -5,7 +5,7 @@ This is a program for multi chatting and it is implemented by using TCP socket i
 https://github.com/KimSangYeon-DGU/Versatile_Socket
 
 ## Why are you making this program?
-I want to share my application with many developers, students, and anyone, and I know many students struggle to choice project's theme.
+I want to share my application with many developers, students, and anyone, and I know many students struggle to choice their project's theme.
 
 So, I think it would help them for doing that.
 
